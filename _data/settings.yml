@@ -50,7 +50,7 @@ social:
 # Hero Settings
 hero:
   hero__title: hi!
-  hero__description: I'm a Research Associate at FIZ Karlsruhe, enthusiast for cultural heritage data (with a special interest in the performing arts), ontology and knowledge graph engineering, generative AI, data exploration.  
+  hero__description: I'm a Research Associate at FIZ Karlsruhe, enthusiast for cultural heritage data with a special interest in the performing arts, ontology and knowledge graph engineering, generative AI, data exploration.  
   hero__image: '/images/TabeaTietz.jpg'
 
 
