@@ -3,9 +3,12 @@
   @media only screen and (max-width: $desktop) {
     padding: 40px 20px 0;  // Add some horizontal padding on larger screens was 40px 0 0
   }
-
   @media only screen and (max-width: $mobile) {
     padding: 20px 0 0;
+  }
+
+    @media only screen and (max-width: $tablet) {
+    flex-direction: column;  // Stack items vertically on tablets
   }
 }
 
@@ -33,6 +36,11 @@
   @media only screen and (max-width: $mobile) {
     margin-top: 32px;
     padding: 20px 16px 0;  // Add left padding on mobile screens as well
+  }
+
+  @media only screen and (max-width: $tablet) {
+    width: 50%;  // Make the left section full width on tablets
+    margin-bottom: 16px;  // Add spacing between sections
   }
 }
 
@@ -62,19 +70,19 @@
   }
 
   @media only screen and (max-width: $desktop) {
-   margin-left: 150px;    
+   margin-left: auto;    
    width: 100%;
   }
 
-  @media only screen and (max-width: $tablet) {
-    width: 100%;
-    margin-left: 50px;
+  @media only screen and (max-width: 1370px) {
+    width: 70%;
+    margin-left: 0;
+    margin-right: auto;
   }
 
   @media only screen and (max-width: $mobile) {
     margin-left: auto;
     margin-right: auto;
-    display: block;
     width: 100%;  
 }
 }
@@ -90,6 +98,9 @@
   @media only screen and (max-width: $desktop) {
     order: -1;
     max-width: 100%;
+  }
+  @media only screen and (max-width: $tablet) {
+    max-width: 90%;
   }
 }
 
