@@ -58,7 +58,7 @@
   }
 
   @media only screen and (max-width: $wide) {
-    height: 484px;
+    width: 100%;
   }
 
   @media only screen and (max-width: $desktop) {
@@ -67,15 +67,16 @@
   }
 
   @media only screen and (max-width: $tablet) {
-    height: 420px;
+    width: 100%;
     margin-left: 50px;
   }
 
   @media only screen and (max-width: $mobile) {
-    margin-left: 0;
-    width: 50%;
-    height: 280px;
-  }
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;  
+}
 }
 
 .hero__right {
