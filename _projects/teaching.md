@@ -46,7 +46,7 @@ The entire course, including lectures and practical hands-on sessions is availab
 
 ## ISE Project Lab Course at Coding da Vinci
 
-As part of the ISE Project Lab Course in the 2022 summer semester, we competed with an amazing group of students in the **Coding da Vinci Baden-Württemberg Hackathon**.  
+As part of the ISE Project Lab Course in the 2022 summer semester, we competed with an amazing group of students in the [**Coding da Vinci Baden-Württemberg Hackathon**](https://codingdavinci.de/de/events/baden-wuerttemberg-2022).  
 Our projects **ansights** won in the category **Most FAIR**. 
 
 <div class="gallery-box">
@@ -54,7 +54,7 @@ Our projects **ansights** won in the category **Most FAIR**.
     <img src="/images/cdv-bw.jpg" alt="Coding da Vinci BW 2022" loading="lazy"> 
     <img src="/images/ansights.gif" alt="ansights graph explorer" loading="lazy">
   </div>
-  <em>Team ansights at CdV BW 2022 and <a href="https://github.com/joelosw/ansights/tree/master" target="_blank">ansights visual explorer</a></em>
+  <em>Team ansights (Simeon Allmendinger, Joel Oswald, Emil Meckel, Sasha Bruns, Tabea Tietz, Etienne Posthumus) at CdV BW 2022 and <a href="https://github.com/joelosw/ansights/tree/master" target="_blank">ansights visual explorer</a></em>
 </div>
 
 ### About ansights 
