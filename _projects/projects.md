@@ -12,7 +12,7 @@ permalink: '/research-projects'
 
 ### NFDIcore Ontology
 Each NFDI consortium establishes research data infrastructures tailored to its specific domain. To facilitate interoperability across different domains and consortia, the [**NFDIcore ontology**](https://ise-fizkarlsruhe.github.io/nfdicore/) serves as a mid-level ontology to represent metadata about NFDI resources, e.g. agents, projects, data portals, etc. NFDIcore is compliant with the Basic Formal Ontology 2020 and is extended for domain-specific research questions following a modular approach for as e.g., with the NFDI4Culture ontology (CTO).
-- NFDIcore Documentation Including Usage Patterns on [GitHub](https://ise-fizkarlsruhe.github.io/nfdicore/docs/)
+- NFDIcore Documentation on [GitHub](https://ise-fizkarlsruhe.github.io/nfdicore/docs/)
 
 
 ### Culture Ontology (CTO)
