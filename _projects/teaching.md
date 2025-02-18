@@ -1,7 +1,7 @@
 ---
 title: Teaching and Supervision
 date: 2022-01-09 08:01:35 +0300
-image: '/images/openhpi-2.png'
+image: '/images/openhpi-studio.jpg'
 permalink: '/teaching'
 ---
 
