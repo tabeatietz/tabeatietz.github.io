@@ -7,6 +7,7 @@ permalink: '/talks'
 
 # Presentation of Abstracts and Running Projects
 - **Knowledge Graph-based Research Data Integration for NFDI4Culture and Beyond** at e-Science Tage 2025, March 13, 2025 in Heidelberg, Germany
+- **NFDI4Culture Ontologies and Use Cases** at NFDI4Culture Fachgespräche Meetup, February 26 [zenodo slides](https://zenodo.org/records/14937126)
 - **The NFDICore Ontology And Related Modular Domain Ontologies For NFDI4Culture - NFDI-MatWerk - NFDI4DataScience - NFDI4Memory And Beyond** at 1st Base4NFDI User Conference (UC4B2024), November 21, 2024 in Berlin, Germany. [zenodo slides](https://zenodo.org/records/14185853)
 
 # Invited Talks
