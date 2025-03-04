@@ -7,7 +7,7 @@ image: '/images/toubkal3.jpg'
 
 I'm currently most enthusiastic about hiking, gravel and road biking, swimming, running, and bouldering, and I'd love to find the time to really get back into CrossFit. In general, I enjoy most outdoor activities, and have tried  a number of sports on the water (sailing, kanoe polo, wild water kajaking) in the snow (alpine and XC skiing, snowboarding), and activities on various types of wheels (biking, skateboarding, off-road driving). 
 
-Some highlights in recent years have definitely been summiting Zugspitze in the snow, ascending Mount Toubkal in the Atlas Mountains (4.167m), camping in the Sahara Desert, and finishing my first-ever (sprint) triathlon. Currently I'm training for the [Ironman 51.50 Erkner](https://www.ironman.com/races/5150-erkner), Germany. 
+Some highlights in recent years have definitely been summiting Zugspitze in the snow, ascending Mount Toubkal in the Atlas Mountains (4.167m), sleeping under the stars of the Sahara Desert, and finishing my first-ever (sprint) triathlon. Currently I'm training for the [Ironman 51.50 Erkner](https://www.ironman.com/races/5150-erkner), Germany. 
 
 <div class="gallery-box">
   <div class="gallery">
