@@ -14,8 +14,12 @@ menu__settings:
       url: '/'
     - title: 'Work'
       url: '/projects/'
+    - title: 'The B-Side'
+      url: '/the-b-side/'
     - title: 'Contact'
       url: '#socials'
+
+        
 #    - title: 'Blog'
 #      url: '/blog/'
 #    - title: 'Pages'

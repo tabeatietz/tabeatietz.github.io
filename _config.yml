@@ -31,6 +31,10 @@ collections:
 
 # Pages Path
 defaults:
+  - scope:  
+      path: "the-b-side"
+    values:
+      layout: "default"
   - scope:
       path: ""
     values:
