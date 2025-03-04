@@ -14,6 +14,9 @@ M. Razum, S. Göller, H. Sack, T. Tietz, O. Vsesviatska, G. Weilandt, M. Greller
 
 # Peer Reviewed Publications
 
+## 2025
+- L. Söhn, T. Tietz, J. J. Steller, P. Kehrein, A. Büttner, E. Posthumus, O. Bruns, J. Grünewälder, J. Hörnschemeyer, C. Sander, V. Grund, H. Fliegl, H. Sack, T. Schrade, **NFDI4Culture Integration Stories: Bridging Gaps Between Isolated Research Resources** at the Digital Humanities Conference in Lisbon, Portugal, July 2025 (to be published)
+
 ## 2024
 - O. Bruns, T. Tietz, L. Söhn, J. J. Steller, S. R. Ondraszek, E. Posthumus, T. Schrade, H. Sack, **What’s Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow**, in Proc. of 4th Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2024, 2024  
 - O. Bruns, L.Söhn,T. Tietz, J. J. Steller, E. Posthumus, T. Schrade, H. Sack, **Gotta Catch’em All: From Data Silos to a Knowledge Graph**, Proc. of 21st Extended Semantic Web Conference (ESWC 2024), Poster & Demos, 2024.  
