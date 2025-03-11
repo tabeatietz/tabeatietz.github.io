@@ -37,12 +37,18 @@ The entire course, including lectures and practical hands-on sessions is availab
 - **Linked Data Engineering 2016** (associated lab course and course forum)
 - **Knowledge Engineering with Semantic Web Technologies 2015** (associated lab course and course forum)
 
-
-
-
 # Lab Courses and Project Seminars at Karlsruhe Institute of Technology
-- Master Seminar 'Information Service Engineering Project Lab Course' in WiSe 2018/19, WiSe 2020/21, SoSe 2022, WiSe 2024/25
-- Teaching Assistant 'Information Service Engineering' in SoSe 2021
+- Master Seminar 'Data Stories' in SoSe 2025
+- Master Seminar 'Information Service Engineering Project Lab Course' in WiSe 2024/25, SoSe 2022, WiSe 2020/21, WiSe 2018/19   
+- Teaching Assistant 'Information Service Engineering' in SoSe 2025 + 2021
+
+## Project Course: Data Stories with Semantic Technologies and Generative AI
+Large Knowledge Graphs are often overwhelming for non-technical users due to their complexity, making it difficult to understand the structures and contents in a clear and intuitive way. Data Stories are designed to help users explore data; they simplify the complex relationships within Knowledge Graphs, reveal patterns between entities, and provide narrative summaries that highlight the most relevant aspects of large datasets. 
+
+In this course, we conceptualize and implement methods for creating Data Stories from large and complex Knowledge Graphs. This includes the creation of  visualizations and the use of generative AI to bridge the gap between data creators and users. The students have the chance to combine creativity and practical implementation tasks to develop solutions for real-world projects and problems. 
+
+This course is realized in corporation with the [Mainz Academy of Sciences and Literature](https://www.adwmainz.de/). 
+
 
 ## ISE Project Lab Course at Coding da Vinci
 
@@ -62,10 +68,10 @@ Our projects **ansights** won in the category **Most FAIR**.
 A Knowledge Graph has been created that links the leaflets provided by *Haus der Geschichte Baden-Württemberg* with their metadata, the automatically extracted keywords, and entities from Wikidata and the German Authority File (GND).
 
 ### Poster Presentation
-Following the award of the MOST FAIR application, we had the opportunity to present **ansights**  during the Poster and Demo session at [Semantics 2022](https://2022-eu.semantics.cc/) in Vienna, Austria.  
-**Team:** Simeon Allmendinger, Joel Oswald, Emil Meckel, Sasha Bruns, Tabea Tietz, Etienne Posthumus
+Following the award of the MOST FAIR application, we had the opportunity to present **ansights**  during the Poster and Demo session at [Semantics 2022](https://2022-eu.semantics.cc/) in Vienna, Austria   
+**Team:** Simeon Allmendinger, Joel Oswald, Emil Meckel, Sasha Bruns, Tabea Tietz, Etienne Posthumus  
+**([view poster]({{ site.baseurl }}/images/Semantics2022_ansights.pdf))**
 
-<iframe class="pdf-container" src="{{ site.baseurl }}/images/Semantics2022_ansights.pdf#toolbar=0" width="80%" height="80%" onclick="this.requestFullscreen();"></iframe>
 
 
 
