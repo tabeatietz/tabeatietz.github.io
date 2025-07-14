@@ -6,6 +6,8 @@ permalink: '/publications'
 ---
 
 # Proceedings
+O. Bruns, A. Graciotti, B. Sartini, T. Tietz (eds.), **Proceedings of the Second International Workshop of Semantic Digital Humanities (SemDH 2025)**, co-located with ESWC 2025, CEUR Workshop Proceedings *to be published*
+
 O. Bruns, A. Poltronieri, L. Stork, T. Tietz (eds.), **Proceedings of the First International Workshop of Semantic Digital Humanities (SemDH 2024)**, co-located with ESWC 2024, CEUR Workshop Proceedings, vol 3724, [https://ceur-ws.org/Vol-3724](https://ceur-ws.org/Vol-3724)
 
 # Invited Articles
