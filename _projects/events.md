@@ -9,7 +9,13 @@ permalink: '/events'
 # Upcoming Events 
 
 - [International Digital Humanities conference](https://dh2025.adho.org/) 2025 in Lisbon, Portugal 
+  - Presentation on **NFDI4Culture Integration Stories: Bridging Gaps between isolated Research Resources** ([Poster on zenodo](https://zenodo.org/records/15878213))
 - [CORDI](https://www.nfdi.de/cordi-2025/?lang=en) 2025 in Aachen, Germany 
+  - Presentations on 
+    - **NFDIcore 3.0: A Mid-Level BFO2020-Compliant Ontology for Sustainable Research Data Interoperability Across Consortia**
+    - **Cultivating CRIS for RDM: Technical Foundations for Sustainable Research Information Management at NFDI4Culture**
+    - **Indexing Historical Research Data: MemO and the NFDI4Memory Knowledge Graph**
+    - **How are NFDI consortia using Knowledge Graphs?: An overview of common functions and challenges by the Working Group “Knowledge Graphs”**
 - [NFDI4Culture Community Plenary](https://nfdi4culture.de/events/details/culture-community-plenary-5-in-mainz.html) in Mainz, Germany 
 - Knowledge Graphen Uncovered: Alles was Sie über Knowledge Graphen wissen wollten – aber sich nie zu fragen getraut haben in Mainz, Germany 
 - Cultural Heritage in the Age of AI in Leiden, Netherlands 
