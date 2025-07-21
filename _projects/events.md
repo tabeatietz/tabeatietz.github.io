@@ -8,8 +8,7 @@ permalink: '/events'
 
 # Upcoming Events 
 
-- [International Digital Humanities conference](https://dh2025.adho.org/) 2025 in Lisbon, Portugal 
-  - Presentation on **NFDI4Culture Integration Stories: Bridging Gaps between isolated Research Resources** ([Poster on zenodo](https://zenodo.org/records/15878213))
+
 - [CORDI](https://www.nfdi.de/cordi-2025/?lang=en) 2025 in Aachen, Germany 
   - Presentations on 
     - **NFDIcore 3.0: A Mid-Level BFO2020-Compliant Ontology for Sustainable Research Data Interoperability Across Consortia**
@@ -22,6 +21,8 @@ permalink: '/events'
 
 # Past Events 
 
+- [International Digital Humanities conference](https://dh2025.adho.org/) 2025 in Lisbon, Portugal 
+  - Presentation on **NFDI4Culture Integration Stories: Bridging Gaps between isolated Research Resources** ([Poster on zenodo](https://zenodo.org/records/15878213))
 - [ESWC 2025](https://2025.eswc-conferences.org/) – Empowering Knowledge through Semantics: From Knowledge Graphs to Neurosemantics in Portoroz, Slovenia 
 - [SemDH 2025](https://semdh.github.io/) – The Second International Workshop for Semantic Digital Humanities in Portoroz, Slovenia
 - [ISWS 2024](https://2024.semanticwebschool.org/) – The International Semantic Web Research Summer School 
