@@ -17,7 +17,7 @@ Some recent highlights have definitely been summiting Zugspitze in the snow, asc
   </div>
 </div>
 
-## Duolingo Stats
+## Duolingo Streak
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=Tabea461200&theme=light)
 
 
