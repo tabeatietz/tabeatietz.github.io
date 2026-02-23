@@ -18,6 +18,12 @@ Each NFDI consortium establishes research data infrastructures tailored to its s
 ### Culture Ontology (CTO)
 [**CTO**](https://nfdi4culture.de/ontology/index.html) represents resources within the NFDI4Culture domains. The ontology addresses domain-specific research questions, connects diverse cultural entities, and facilitates the efficient organization, retrieval, and analysis of cultural data. CTO is intentionally light-weight and represents only crucial information from source data to enable interconnection and querying within NFDI4Culture. 
 
+Papers about CTO: 
+- Tietz, T., Posthumus, E., Söhn, L. C., Steller, J. J., Bruns, O., Waitelonis, J., Schrade, T., & Sack, H. (2025, November 3). **Knowledge Representation and Discovery for Cultural Heritage Research Data with CTO and SHMARQL**. International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K), co-located with ISWC, Nara, Japan. [https://doi.org/10.5281/zenodo.17509231](https://doi.org/10.5281/zenodo.17509231) 
+  - Slides: [https://zenodo.org/records/17504485](https://zenodo.org/records/17504485)
+- Tietz, T., Söhn, L. C., Bruns, O., Waitelonis, J., Steller, J. J., Schrade, T., & Sack, H. (2025). **From Culture to Core: Integrating Cultural Heritage Data into Cross-Domain Research Infrastructures**. Joint Proceedings of Industry, Doctoral Consortium, Posters and Demos of the 24th International Semantic Web Conference (ISWC 2025), 4085, 345–350. [https://doi.org/10.5281/zenodo.17519869](https://doi.org/10.5281/zenodo.17519869)
+  - Poster: [https://zenodo.org/records/17461796](https://zenodo.org/records/17461796) 
+
 ## Linked Stage Graph – a Knowledge Graph based Research Resource for the Performing Arts
 Linked Stage Graph is a Knowledge Graph that contains black and white photographs and metadata about the Stuttgart State Theatre from the 1890s to the 1940s. The nearly 7,000 photographs provide vivid insights into on-stage events, such as theater plays, operas, and ballet performances, as well as off-stage moments and theater buildings. Linked Stage Graph 2.0 is part of ongoing research and will be expanded with additional historical resources, such as theatre programs and personnel files. As part of this project, we are also developing a comprehensive data model to enhance the representation of the data and support the integration of these historical resources.
 - [**Linked Stage Graph on the Web**](https://slod.fiz-karlsruhe.de/)
