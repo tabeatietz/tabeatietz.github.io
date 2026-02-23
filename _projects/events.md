@@ -7,8 +7,15 @@ permalink: '/events'
 
 
 # Upcoming Events 
+- [ESWC 2026](https://2026.eswc-conferences.org/) in Dubrovnik, Croatia 
+- [SemDH 2026](https://semdh.github.io/) in Dubrovnik, Croatia
 
-
+# Past Events 
+- [ISWC 2025](https://iswc2025.semanticweb.org/) in Nara, Japan
+  - Presented Papers: 
+    - **Knowledge Representation and Discovery for Cultural Heritage Research Data with CTO and SHMARQL**
+    - **From Culture to Core: Integrating Cultural Heritage Data into Cross-Domain Research Infrastructures**
+    - **Interlinking Research Data and Services in the Historical Sciences with MemO and the NFDI4Memory Knowledge Graph**
 - [CORDI](https://www.nfdi.de/cordi-2025/?lang=en) 2025 in Aachen, Germany 
   - Presentations on 
     - **NFDIcore 3.0: A Mid-Level BFO2020-Compliant Ontology for Sustainable Research Data Interoperability Across Consortia**
@@ -16,11 +23,8 @@ permalink: '/events'
     - **Indexing Historical Research Data: MemO and the NFDI4Memory Knowledge Graph**
     - **How are NFDI consortia using Knowledge Graphs?: An overview of common functions and challenges by the Working Group “Knowledge Graphs”**
 - [NFDI4Culture Community Plenary](https://nfdi4culture.de/events/details/culture-community-plenary-5-in-mainz.html) in Mainz, Germany 
-- Knowledge Graphen Uncovered: Alles was Sie über Knowledge Graphen wissen wollten – aber sich nie zu fragen getraut haben in Mainz, Germany 
-- Cultural Heritage in the Age of AI in Leiden, Netherlands 
-
-# Past Events 
-
+- HERMES Open Colloqium **Knowledge Graphen Uncovered: Alles, was ich schon immer über Knowledge Graphen wissen wollte, aber mich bisher nicht getraut habe zu fragen** in Mainz, Germany 
+  - Slides: [https://zenodo.org/records/17584305](https://zenodo.org/records/17584305)
 - [International Digital Humanities conference](https://dh2025.adho.org/) 2025 in Lisbon, Portugal 
   - Presentation on **NFDI4Culture Integration Stories: Bridging Gaps between isolated Research Resources** ([Poster on zenodo](https://zenodo.org/records/15878213))
 - [ESWC 2025](https://2025.eswc-conferences.org/) – Empowering Knowledge through Semantics: From Knowledge Graphs to Neurosemantics in Portoroz, Slovenia 
