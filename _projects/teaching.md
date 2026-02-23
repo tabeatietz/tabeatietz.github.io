@@ -38,6 +38,7 @@ The entire course, including lectures and practical hands-on sessions is availab
 - **Knowledge Engineering with Semantic Web Technologies 2015** (associated lab course and course forum)
 
 # Lab Courses and Project Seminars at Karlsruhe Institute of Technology
+- Master Seminar 'Knowledge Driven AI' in WiSe 2025/2026 
 - Master Seminar 'Data Stories' in SoSe 2025
 - Master Seminar 'Information Service Engineering Project Lab Course' in WiSe 2024/25, SoSe 2022, WiSe 2020/21, WiSe 2018/19   
 - Teaching Assistant 'Information Service Engineering' in SoSe 2025 + 2021
